@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikk-27
 - 👀 I’m interested in Data science, playing with numbers, making some stories of it, Restful API last but not the least python development ...
 - 🌱 I’m currently practising Django Rest Framework and Machine learning techniques
-- 💞️ I’m looking to collaborate in various public sector using NLP techniques 
+- 💞️ I’m forward looking to collaborate in various public sector using NLP techniques 
 - 📫 How to reach me nktllwn@gmail.com
 
 <!---
