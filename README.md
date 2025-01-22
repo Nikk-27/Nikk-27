@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a marketplace react native cross platform mobile application at CampusCollect<br>Currently getting my hands dirty with different GenAI technologies<br>Ask me about backend (Python/Java/Golang) and cloud development (AWS/Azure)<br>How to reach me: nikitalalwani61@gmail.com / 562-241-6748<br>Fun fact: Open to discuss financial stuff/ how to become financially literate early<br>
+- I'm currently working on a marketplace react native cross platform mobile application at CampusCollect<br> - Currently getting my hands dirty with different GenAI technologies<br> - Ask me about backend (Python/Java/Golang) and cloud development (AWS/Azure)<br> - How to reach me: nikitalalwani61@gmail.com / 562-241-6748<br> - Fun fact: Open to discuss financial stuff/ how to become financially literate early<br>
 
 
 ## 🌐 Socials:
