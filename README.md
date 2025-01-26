@@ -5,6 +5,9 @@
 - How to reach me: nikitalalwani61@gmail.com / 562-241-6748<br>
 - Fun fact: Open to discuss financial stuff/ how to become financially literate early<br>
 - Feel Free to check my solutions for Leetcode DSA problems : https://github.com/Nikk-27/LeetCode-files
+
+![](https://komarev.com/ghpvc/?username=Nikk-27)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coyoteaflowers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikita-lalwani-nl25/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nikitalalwani61) 
 
