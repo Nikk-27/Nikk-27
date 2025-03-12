@@ -5,6 +5,7 @@
 - How to reach me: nikitalalwani61@gmail.com / 562-241-6748<br>
 - Fun fact: Open to discuss financial stuff/ how to become financially literate early<br>
 - Feel Free to check my solutions for Leetcode DSA problems : https://github.com/Nikk-27/LeetCode-files
+- Recently worked on an AI Health assistant bot using Hugging face model - [ZenDoc](https://huggingface.co/spaces/Nikk-27/zendocc)
 
 ![](https://komarev.com/ghpvc/?username=Nikk-27)
 
