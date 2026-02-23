@@ -1,5 +1,5 @@
 # 💫 About Me:
-- I'm currently working on a marketplace react native cross platform mobile application at CampusCollect<br>
+- Currently Engineering at PlayStation - Sony Interactive Entertainment<br>
 - Currently getting my hands dirty with different GenAI technologies<br>
 - Ask me about backend (Python/Java/Golang) and cloud development (AWS/Azure)<br>
 - How to reach me: nikitalalwani61@gmail.com / 562-241-6748<br>
